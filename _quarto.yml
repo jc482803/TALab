@@ -1,14 +1,40 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "TALab"
-  author: "Norah Jones"
+  author: "TALab Team"
   date: "2024-02-28"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - part: intro.qmd
+      chapters:
+        - welcome.qmd
+        - mission.qmd
+    - part: starting.qmd
+      chapters:
+        - volunteer.qmd
+        - undergrad.qmd
+        - graduate.qmd
+    - part: policies.qmd
+      chapters:
+        - philosophy.qmd
+        - rules.qmd
+        - funding.qmd
+        - lab.qmd
+        - resources.qmd
+    - part: setup.qmd
+      chapters:
+        - initializing.qmd
+        - management.qmd
+        - analysis.qmd
+    - part: clinical.qmd
+      chapters:
+        - comps.qmd
+        - practica.qmd
+        - guidelines.qmd
+        - residency.qmd
     - references.qmd
 
 bibliography: references.bib

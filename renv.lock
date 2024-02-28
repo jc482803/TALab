@@ -181,20 +181,19 @@
     },
     "knitr": {
       "Package": "knitr",
-      "Version": "1.41",
+      "Version": "1.45",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Requirements": [
         "R",
         "evaluate",
         "highr",
         "methods",
-        "stringr",
         "tools",
         "xfun",
         "yaml"
       ],
-      "Hash": "6d4971f3610e75220534a1befe81bc92"
+      "Hash": "1ec462871063897135c1bcbe0fc8f07d"
     },
     "lifecycle": {
       "Package": "lifecycle",
@@ -330,13 +329,13 @@
     },
     "tinytex": {
       "Package": "tinytex",
-      "Version": "0.43",
+      "Version": "0.49",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Requirements": [
         "xfun"
       ],
-      "Hash": "facc02f3d63ed7dd765513c004c394ce"
+      "Hash": "5ac22900ae0f386e54f1c307eca7d843"
     },
     "vctrs": {
       "Package": "vctrs",
@@ -354,14 +353,15 @@
     },
     "xfun": {
       "Package": "xfun",
-      "Version": "0.35",
+      "Version": "0.42",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Requirements": [
+        "grDevices",
         "stats",
         "tools"
       ],
-      "Hash": "f576593107bdf9aa7db48ef75a8c05fb"
+      "Hash": "fd1349170df31f7a10bd98b0189e85af"
     },
     "yaml": {
       "Package": "yaml",
