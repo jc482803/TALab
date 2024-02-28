@@ -14,6 +14,13 @@
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
+    "objectID": "welcome.html",
+    "href": "welcome.html",
+    "title": "1  Welcome",
+    "section": "",
+    "text": "This is the comprehensive guide for students and trainees working within the Transdiagnostic Addiction Laboratory at Dalhousie University. Dalhousie University is located in Mi’kma’ki, the ancestral and unceded territory of the Mi’kmaq. We are all Treaty people.\nThis document will periodically be updated."
+  },
+  {
     "objectID": "analysis.html",
     "href": "analysis.html",
     "title": "13  Analysis",
