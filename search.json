@@ -42,11 +42,18 @@
     "text": "Review the Below\nDepending on whether you are an incoming Volunteer, Honours or (In)dependent project student, or Graduate student, you may have further steps you should consider. Please consult the relevant sections."
   },
   {
+    "objectID": "resources.html#setting-up-github",
+    "href": "resources.html#setting-up-github",
+    "title": "9  Resources",
+    "section": "9.1 Setting up GitHub",
+    "text": "9.1 Setting up GitHub\nFor more information and tutorial websites/videos, please see the below.\n\n\n\nCol1\nCol2\n\n\n\n\nSetting up R projects to GitHub\nA short step-by-step video on how to add your existing projects to GitHub."
+  },
+  {
     "objectID": "resources.html#using-r",
     "href": "resources.html#using-r",
     "title": "9  Resources",
-    "section": "9.1 Using R",
-    "text": "9.1 Using R\nFor statistical analyses, students are able to use any analytic platform with which they are comfortable. However, Igor strongly recommends that students learn R and conduct analyses using R.\nIf you’ve never used R, you will first need to download R and then an IDE (Integrated Development Environment). Simply downloading R is not sufficient for using R. There are several IDEs that can be used for R, the most common and specialized being RStudio. You are free to use any IDEs you would like - however, the content in this manual will assume you are using RStudio."
+    "section": "9.2 Using R",
+    "text": "9.2 Using R\nFor statistical analyses, students are able to use any analytic platform with which they are comfortable. However, Igor strongly recommends that students learn R and conduct analyses using R.\nIf you’ve never used R, you will first need to download R and then an IDE (Integrated Development Environment). Simply downloading R is not sufficient for using R. There are several IDEs that can be used for R, the most common and specialized being RStudio. You are free to use any IDEs you would like - however, the content in this manual will assume you are using RStudio."
   },
   {
     "objectID": "analysis.html",
