@@ -2,6 +2,14 @@
 title: "Resources"
 ---
 
+## Setting up GitHub
+
+For more information and tutorial websites/videos, please see the below.
+
+| Col1                                                                           | Col2                                                                       |
+|-----------------------------|-------------------------------------------|
+| [Setting up R projects to GitHub](https://www.youtube.com/watch?v=bUoN85QvC10) | A short step-by-step video on how to add your existing projects to GitHub. |
+
 ## Using R
 
 For statistical analyses, students are able to use any analytic platform with which they are comfortable. However, Igor strongly recommends that students learn R and conduct analyses using R.
