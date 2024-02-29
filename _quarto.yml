@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 book:
-  title: "TALab"
+  title: "Transdiagnosic Addiction Laboratory Manual"
   author: "TALab Team"
-  date: "2024-02-28"
+  date: "2024-02-29" # Don't forget to update the date when publishing changes
   chapters:
     - index.qmd
     - part: intro.qmd
