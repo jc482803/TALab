@@ -2,36 +2,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "TALab",
+    "title": "Transdiagnosic Addiction Laboratory Manual",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome\nWelcome to the Transdiagnostic Addiction Laboratory at Dalhousie University - we are glad to have you!\nThis is the comprehensive guide for students and trainees working within the Transdiagnostic Addiction Laboratory at Dalhousie University. Dalhousie University is located in Mi’kma’ki, the ancestral and unceded territory of the Mi’kmaq. We are all Treaty people.\nThe goal of this document is to provide you with a detailed guide on navigating programs at the University, as well as providing you with the general rules and expectations you should follow while working in the lab. We also provide some resources both for the program and for setting up and conducting research.\nThis document was inspired by several other documents (see here and here) and is a work in progress. If you have feedback and/or suggested updates, please reach out to the lab manager at jacob.belliveau@dal.ca."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "Introduction",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "objectID": "mission.html#our-research",
+    "href": "mission.html#our-research",
+    "title": "1  Mission statement",
+    "section": "1.1 Our research",
+    "text": "1.1 Our research\nCurrent projects within the lab cover the following topics:\n\nWe are interested in understanding the mechanisms of how individuals and populations develop and recover from addiction, with a focus on cannabis, alcohol use, gambling, and video gaming.\nIn collaboration with the Canadian Research Initiative on Substance Misuse (CRISM), we are developing a comprehensive evidence-based online platform for screening, self-management and referral to treatment for individuals curious about their substance use habits.\nA large part of our research investigates the co-occurrence and interaction of addiction and other mental health disorders with the goal of accounting for real-world conditions where most individuals struggle with multiple comorbid disorders."
   },
   {
-    "objectID": "welcome.html",
-    "href": "welcome.html",
-    "title": "1  Welcome",
-    "section": "",
-    "text": "This is the comprehensive guide for students and trainees working within the Transdiagnostic Addiction Laboratory at Dalhousie University. Dalhousie University is located in Mi’kma’ki, the ancestral and unceded territory of the Mi’kmaq. We are all Treaty people.\nThis document will periodically be updated."
+    "objectID": "starting.html#read-this-manual",
+    "href": "starting.html#read-this-manual",
+    "title": "Getting Started",
+    "section": "Read this manual",
+    "text": "Read this manual\nThis manual contains all of the policies and expectations you are expected to follow while working in the lab, and provides you with many resources you may need throughout your research journey. Our goal with this document is to add in resources as they come up through working with students on different research projects.\nIt is good practice to consult this manual before asking Igor for assistance on a specific topic."
+  },
+  {
+    "objectID": "starting.html#complete-ethics-training",
+    "href": "starting.html#complete-ethics-training",
+    "title": "Getting Started",
+    "section": "Complete Ethics Training",
+    "text": "Complete Ethics Training\nAs an incoming student in the lab, part of your on-boarding will be to complete the TCPS 2: CORE Course on Research Ethics. You will not be permitted to participate in research within the lab until you have completed this course and emailed proof of completion to the lab manager, Jacob at jacob.belliveau@dal.ca."
+  },
+  {
+    "objectID": "starting.html#get-access",
+    "href": "starting.html#get-access",
+    "title": "Getting Started",
+    "section": "Get Access",
+    "text": "Get Access\nThe Department requires that the hallway leading to the lab spaces remain locked 24/7. This door is only accessible by keycode associated with your DalCard. The lab manager will need to set up this access for you.\nBefore you can enter, even if you have been granted access by the Department, you will need a PIN code associated with your DalCard. If you lived in a residence or otherwise have had access to an area on campus that required you tap your DalCard and input a PIN, this door will use the same PIN. Otherwise, if you have not set up a PIN already, you can set one on the DalCard website."
+  },
+  {
+    "objectID": "starting.html#review-the-below",
+    "href": "starting.html#review-the-below",
+    "title": "Getting Started",
+    "section": "Review the Below",
+    "text": "Review the Below\nDepending on whether you are an incoming Volunteer, Honours or (In)dependent project student, or Graduate student, you may have further steps you should consider. Please consult the relevant sections."
   },
   {
     "objectID": "analysis.html",
     "href": "analysis.html",
-    "title": "13  Analysis",
+    "title": "12  Analysis",
     "section": "",
     "text": "You are free to choose the software you wish to use to carry out analyses. However, Igor recommends all trainees learn how to use R."
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   }
 ]
