@@ -1,3 +1,23 @@
 ---
-title: "mission"
+title: "Mission statement"
 ---
+
+Research at the Transdiagnostic Addiction Laboratory focuses on factors that influence the development, maintenance, and treatment of substance abuse, and behavioral addictions such as gambling. We are particularly interested in the co-occurrence of addiction and other psychiatric disorders.
+
+## Our research
+
+Current projects within the lab cover the following topics:
+
+-   We are interested in understanding the mechanisms of how individuals and
+    populations develop and recover from addiction, with a focus on
+    cannabis, alcohol use, gambling, and video gaming.
+
+-   In collaboration with the Canadian Research Initiative on Substance
+    Misuse (CRISM), we are developing a comprehensive evidence-based online
+    platform for screening, self-management and referral to treatment for
+    individuals curious about their substance use habits.
+
+-   A large part of our research investigates the co-occurrence and
+    interaction of addiction and other mental health disorders with the goal
+    of accounting for real-world conditions where most individuals struggle
+    with multiple comorbid disorders.
