@@ -5,3 +5,6 @@ emails:
 names:
   pi: Igor
   manager: Jacob
+  
+gitrepo:
+  github: "https://github.com/transdiagnostic-addiction-laboratory/TALab"
