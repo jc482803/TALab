@@ -1,3 +1,25 @@
 ---
-title: "Starting"
+title: "Getting Started"
 ---
+
+Before you begin working in this lab, all members are expected to do the below.
+
+## Read this manual
+
+This manual contains all of the [policies and expectations](policies.qmd) you are expected to follow while working in the lab, and provides you with many [resources](resources.qmd) you may need throughout your research journey. Our goal with this document is to add in resources as they come up through working with students on different research projects.
+
+It is good practice to consult this manual before asking Igor for assistance on a specific topic.
+
+## Complete Ethics Training
+
+As an incoming student in the lab, part of your on-boarding will be to complete the [TCPS 2: CORE Course on Research Ethics](https://tcps2core.ca/welcome). You will not be permitted to participate in research within the lab until you have completed this course and emailed proof of completion to the lab manager, {{< var names.manager >}} at {{< var emails.manager >}}.
+
+## Get Access
+
+The Department requires that the hallway leading to the lab spaces remain locked 24/7. This door is only accessible by keycode associated with your DalCard. The lab manager will need to set up this access for you.
+
+Before you can enter, even if you have been granted access by the Department, you will need a PIN code associated with your DalCard. If you lived in a residence or otherwise have had access to an area on campus that required you tap your DalCard and input a PIN, this door will use the same PIN. Otherwise, if you have not set up a PIN already, you can set one on the [DalCard website](https://www.dal.ca/campus_life/Dalcard/your-dalcard-account.html).
+
+## Review the Below
+
+Depending on whether you are an incoming [Volunteer](volunteer.qmd), [Honours or (In)dependent project student](undergrad.qmd), or [Graduate student](graduate.qmd), you may have further steps you should consider. Please consult the relevant sections.
