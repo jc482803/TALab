@@ -17,8 +17,8 @@ book:
         - graduate.qmd
     - part: policies.qmd
       chapters:
-        - philosophy.qmd
         - rules.qmd
+        - philosophy.qmd
         - funding.qmd
         - lab.qmd
         - resources.qmd
