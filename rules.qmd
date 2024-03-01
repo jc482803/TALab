@@ -1,3 +1,47 @@
 ---
 title: "General lab policies"
 ---
+
+## Respect {#sec-respect}
+
+Please be respectful of not only the people you're working with, but also the spaces you're working within and the equipment you are using. Students should follow the [Dalhousie Code of Student Conduct](https://www.dal.ca/campus_life/safety-respect/student-rights-and-responsibilities/student-life-policies/code-of-student-conduct.html), and researchers must follow the TCPS 2 Code of Ethics (see @sec-complete-ethics-training).
+
+Please note that students are not permitted to smoke [or vape]{.underline} anywhere on campus, especially indoors, as per Dalhousie policy. Under this policy those who wish to smoke are asked to **leave university property**.
+
+When using the lab spaces, please be sure to clean up after yourself and leave the space as you found it. If you notice that the trash or recycling bins are full, please empty them in the communal bins in the hallway and replace the bags (if applicable). Cleaning and sanitizing supplies are available for you to use - please feel free to use them! And if you notice that any supplies are running low, please notify the lab manager.
+
+## Safety & Security {#sec-security}
+
+It is important to be aware of how to ensure the safety of not only yourself and others working on campus, but also the data with which you are working.
+
+### Physical safety
+
+::: {.callout-important appearance="simple"}
+## In case of an emergency
+
+**In case of an emergency, Dalhousie Security should be your first point of contact**. You can contact them using the app above or by **calling 902-494-4109**. **Do not call 911** - Dalhousie Security will call 911 if need be and will ensure that emergency services are capable of navigating to the correct area on campus. If you call 911 on your own, emergency services will have great difficulty locating you.
+:::
+
+All students should have the [DalSafe app](https://www.dal.ca/dept/facilities/services/security-services/dalsafe1.html) on their mobile devices and be familiar with the services offered in the app. This app allows you to get in contact with security, and allows you to send text messages to security in case you need to be discrete. There is also a "Working Alone" feature which makes Dalhousie Security aware of where you are and allows them to check in on you.
+
+As per department policy, please do not share your Banner (B00 or B01) number and PIN with anyone. When accessing the human research area on campus (where the lab spaces are located), please do not let anyone in who you do not know.
+
+### Running participants
+
+::: {.callout-important appearance="simple"}
+## Research participants should never be run alone.
+:::
+
+Always have someone else within earshot when running participants. This can be an undergraduate student, volunteer, graduate student, or the lab manager. If the study design requires you be alone in a room with the participant, there should be no locked doors keeping you and the extra person apart. There are a few reasons for this, not all strictly related to safety:
+
+-   In the event where someone (either you or the research participant) is made to feel uncomfortable by the actions of another, having an extra perspective or witness to the situation can be helpful to resolve disputes.
+
+-   Unfortunately, there have been incidences in the department where participants have acted maliciously towards researchers. Having a second person nearby to assist you is imperative, and may discourage assailants outright.
+
+    -   On this topic, the department has been working toward establishing a resource containing banned participant names and contact information. To date, this has not been established, but the lab manager {{< var names.manager >}} may have resources for you. Please reach out and ask before you begin recruiting participants.
+
+### Data safety
+
+All data collected or datasets which you have access to are not to be shared with anyone. Data and research materials should not be stored on your personal computers - all materials should be stored on the lab OneDrive account. Resources are permitted to be saved to lab computers; however, these documents should also be stored on the lab OneDrive.
+
+All physical research materials (from questionnaires to equipment) should not leave the lab space without explicit permission from Igor.
