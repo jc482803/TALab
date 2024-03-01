@@ -1,3 +1,7 @@
 ---
-title: "volunteer"
+title: "volunteer Students"
 ---
+
+Volunteers within the lab must sign the volunteer agreement form and return it to the lab manager, {{< var names.manager >}}.
+
+Generally, students are expected to commit an average of 3 hours per work to working within the lab. This work need not be completed on campus if the nature of your work permits you to work from home; however, all students are encouraged to work on campus if possible. Working on campus is a great opportunity to meet your fellow labmates, make new friends, and learn about research going on in the lab.
