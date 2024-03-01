@@ -4,7 +4,7 @@ title: "General lab policies"
 
 ## Respect {#sec-respect}
 
-Please be respectful of not only the people you're working with, but also the spaces you're working within and the equipment you are using. Students should follow the [Dalhousie Code of Student Conduct](https://www.dal.ca/campus_life/safety-respect/student-rights-and-responsibilities/student-life-policies/code-of-student-conduct.html), and researchers must follow the TCPS 2 Code of Ethics (see @sec-complete-ethics-training).
+Please be respectful of not only the people you're working with, but also the spaces you're working within and the equipment you are using. Students should follow the [Dalhousie Code of Student Conduct](https://www.dal.ca/campus_life/safety-respect/student-rights-and-responsibilities/student-life-policies/code-of-student-conduct.html), and researchers must follow the TCPS 2 Code of Ethics (see [Ethics Training](starting.qml#sec-complete-ethics-training)).
 
 Please note that students are not permitted to smoke [or vape]{.underline} anywhere on campus, especially indoors, as per Dalhousie policy. Under this policy those who wish to smoke are asked to **leave university property**.
 
