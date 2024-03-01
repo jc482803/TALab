@@ -1,3 +1,11 @@
 ---
 title: "Undergraduate students"
 ---
+
+## Honours students
+
+Honours students are expected to...
+
+## Dependent or independent project students
+
+These students are expected to...
