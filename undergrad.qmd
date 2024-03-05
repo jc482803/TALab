@@ -2,6 +2,8 @@
 title: "Undergraduate students"
 ---
 
+All undergraduate students must work in the lab prior to working with {{< var names.pi >}}. If you are a student considering working with {{< var names.pi >}} for either an Honours or 3000-level project, reach out as soon as possible to {{< var emails.pi >}} or {{< var emails.manager >}} to arrange [volunteering](volunteer.qml) within the lab.
+
 ## Honours students
 
 Honours students are expected to...
