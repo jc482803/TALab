@@ -1,5 +1,5 @@
 ---
-title: "volunteer Students"
+title: "Volunteer Students"
 ---
 
 Volunteers within the lab must sign the volunteer agreement form and return it to the lab manager, {{< var names.manager >}}.
