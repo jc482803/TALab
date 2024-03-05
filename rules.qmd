@@ -17,9 +17,9 @@ It is important to be aware of how to ensure the safety of not only yourself and
 ### Physical safety
 
 ::: {.callout-important appearance="simple"}
-## In case of an emergency
+## In case of an emergency...
 
-**In case of an emergency, Dalhousie Security should be your first point of contact**. You can contact them using the app above or by **calling 902-494-4109**. **Do not call 911** - Dalhousie Security will call 911 if need be and will ensure that emergency services are capable of navigating to the correct area on campus. If you call 911 on your own, emergency services will have great difficulty locating you.
+**Dalhousie Security should be your first point of contact**. You can contact them using the [DalSafe app](https://www.dal.ca/dept/facilities/services/security-services/dalsafe1.html) or by **calling 902-494-4109**. **Do not call 911** - Dalhousie Security will call 911 if need be and will ensure that emergency services are capable of navigating to the correct area on campus. If you call 911 on your own, emergency services will have great difficulty locating you.
 :::
 
 All students should have the [DalSafe app](https://www.dal.ca/dept/facilities/services/security-services/dalsafe1.html) on their mobile devices and be familiar with the services offered in the app. This app allows you to get in contact with security, and allows you to send text messages to security in case you need to be discrete. There is also a "Working Alone" feature which makes Dalhousie Security aware of where you are and allows them to check in on you.
@@ -38,7 +38,7 @@ Always have someone else within earshot when running participants. This can be a
 
 -   Unfortunately, there have been incidences in the department where participants have acted maliciously towards researchers. Having a second person nearby to assist you is imperative, and may discourage assailants outright.
 
-    -   On this topic, the department has been working toward establishing a resource containing banned participant names and contact information. To date, this has not been established, but the lab manager {{< var names.manager >}} may have resources for you. Please reach out and ask before you begin recruiting participants.
+    -   On this topic, the department has been working toward establishing a resource containing banned participant names and contact information. To date, this has not been established, but the lab manager {{< var names.manager >}} may have resources for you. Please reach out and ask **before** you begin recruiting participants.
 
 ### Data safety
 
