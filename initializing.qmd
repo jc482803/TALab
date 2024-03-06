@@ -1,3 +1,109 @@
 ---
 title: "Initializing your project"
 ---
+
+There are a few steps you should take when you begin conceptualizing your project.
+
+## File storage
+
+All files related to your project **must** be stored in the lab [OneDrive](https://dalu.sharepoint.com/sites/its/SitePages/onedrive.aspx). If you haven't already, please [download OneDrive](https://www.microsoft.com/en-ca/microsoft-365/onedrive/download) for Desktop and sign in with your Dalhousie credentials. There should never be any files that are stored only on your personal computer. If you don't have a folder for your project, please ask the lab manager to create a directory for your project and send you a link. Once you have the OneDrive folder/directory shared with you, you are able to add this shared folder as a workable folder on OneDrive for Desktop by logging in to OneDrive online, navigating to *Shared* \> *Shared With You*, and locating the project folder. Once you have the folder, you can select it or open it and click *Add shortcut to My files*. This will add the folder to your computer and you can (and should) work from this folder as you would any other folder on your computer. If you need further assistance, you can [consult this guide](https://support.microsoft.com/en-us/office/add-and-sync-shared-folders-to-onedrive-for-home-8a63cd47-1526-4cd8-bd09-ee3f9bfc1504).
+
+## Preregistration
+
+All studies being carried out within the lab must be preregistered. Generally our lab preregisters studies using the [Open Science Framework (OSF)](https://osf.io/). Depending on the nature of your study, [PROSPERO](https://www.crd.york.ac.uk/PROSPERO/) may also be an option.
+
+The goal of preregistration is to delineate the steps that the project will take. In essence, you are writing the introduction and methods section of your paper. This should include:
+
+-   Brief overview of the background. Why is this project important? What makes it unique? What is the theoretical rationale for your project?
+
+-   Methods used:
+
+    -   Participant inclusion criteria, required sample size, as well as power analyses
+
+    -   Measures and/or instruments used for data collection
+
+    -   Planned analyses
+
+Once you create your preregistration, you will be provided with a DOI. This DOI should be published along with your manuscript to serve as a record of your study design and decisions made. An added benefit of preregistration is that it also gives you a chance to thoroughly conceptualize your study, as well as providing you with a solid first draft of your introduction and methods section when it comes time for you to write your manuscript.
+
+### Amending your preregistration
+
+Preregistration should be thought of as a plan for your research study. Regardless of how much you prepare and think ahead, it's always a possibility that things change along your research journey. If you make changes to the design of your study, these changes should be reflected within your preregistration through an [amendment](https://help.osf.io/article/110-introduction-to-updating). Generally you must provide: 1) the changes made, 2) the rationale for the changes, and 3) the impact of these changes on your study.
+
+## Research logging
+
+All students, regardless of training stage, should create and maintain a separate research log for each study with which you are involved. You can think of this as journaling for academics. Each day you work on your project, once you're done working, you should log any and all decisions made, any lingering thoughts or questions, and also make note of any relevant or key research studies you find if you did a literature search. In particular, if you resolve a question you had previously or if a key decision is made on your project, [write it down]{.underline} in these logs. It's also a good opportunity for you to take note of where you left off for the day, which you can consult when you return to the project and have a good starting point.
+
+The format you can follow for these is up to you. These documents will be for your use only. We provide this base format for you to use or follow as you wish:
+
+```         
+DATE:     DD-MM-YYYY
+TOPIC(S): One-word summaries of topics covered
+NOTES:    Explanation of the topics
+TO DO:    Notes on what actions should be taken or have been taken
+TAGS:     A series of tags or keywords to aid you in finding this portion of the research log later.
+```
+
+Here is an example of how these should be used:
+
+```         
+DATE:     19-03-2023
+TOPIC(S): design; preregistration
+NOTES:    Worked on finalizing the preregistration for the study. Discovered a hole in our plan as discussed: is the SOGS (South Oaks Gambling Screen) the best measure for our study, or would PGSI (Problem Gambling Severity Index) more favourable as study is targeting a subclinical population?
+TO DO:    Discuss with Igor: SOGS vs PGSI?
+TAGS:     measures; question
+```
+
+```         
+DATE:     25-03-2023
+TOPIC(S): design; preregistration; meeting
+NOTES:    Met with Igor to discuss topics from 19-03-2023. Igor agreed that PGSI is better suited for our study design.
+TO DO:    Modify preregistration plan: use PGSI over SOGS.
+TAGS:     design; measures; decision
+```
+
+## Survey design
+
+If you are designing a survey-based study, an important consideration is the use of attention checks and inconsistency checks (see @belliveau2022) integrated within the survey. Unfortunately, many participants in survey based research may not be providing genuine answers to our surveys (see @belliveau2022a). Within our lab, we seek to have the highest quality data possible. Part of this process is accomplished through the use of attention checks and inconsistency checks. We generally exclude participants who fail any given attention or inconsistency check in a survey. Additionally, these questions should be distributed evenly throughout the survey.
+
+### Attention checks
+
+We use several types of attention checks. You should incorporate at least 1 of each type within your survey (for shorter survey designs, e.g. as part of a qualitative study, 1 or 2 attention checks in total are sufficient). The wording of these questions should be simple and straightforward; our goal is not to deceive participants, but rather catch those who are picking responses without reading the question prompts.
+
+|                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|---------------------------|---------------------------------------------|
+| Select-C-type                                                       | These types of questions instruct participants on which answer choice to select. Participants selecting any answer other than the instructed answer choice are considered inattentive.                                                                                                                                                                                                                                                       |
+| Quiz-type                                                           | These questions quiz participants on instructions they should have read. Note that Dalhousie REB often requires this type of quiz with regards to evaluating informed consent for participants.                                                                                                                                                                                                                                              |
+| [Honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing))-type | These questions aim to minimize [desirability bias](https://en.wikipedia.org/wiki/Social-desirability_bias). These types of questions may, for example, ask participants if they completed some training program unrelated to the study and if so, provide participants with open-ended responses for feedback on this program. Any participants who indicate participating in the training and providing feedback are considered ingenuine. |
+
+### Inconsistency checks
+
+These types of questions should serve to double-check both [inclusion criteria]{.underline} and [key variables]{.underline} to the study. These questions can be formatted as simple repetitions (e.g., asking for participants' age twice at two points within the survey) or by evaluating variations of the same question (e.g., asking for participants' age at one point, and later asking for date of birth).
+
+As many projects within our lab are on the topic of addiction, these questions can evaluate the behaviours or substances under examination. For example, if it's required that participants play video games at least once per week over 3 months, you may have this question in your screening questions:
+
+> How often over the past 3 months have you played video games?
+>
+> -   Daily
+>
+> -   Every 2 to 3 days
+>
+> -   Once per week
+>
+> -   Less than once per week
+>
+> -   I have not played video games in the past 3 months
+
+Here, the first 3 answer choices are considered eligible for the study. A follow-up question later in the study evaluating participants' gaming behaviour can be formatted as follows:
+
+> Over the past 3 months, how long is your typical gaming session?
+>
+> -   \<1 hour
+>
+> -   1-3 hours
+>
+> -   3\< hours
+>
+> -   I have not played video games in the past 3 months
+
+In this case, participants should never select the final answer choice. Any participants who do can be considered ineligible.

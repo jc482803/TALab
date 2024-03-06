@@ -16,9 +16,15 @@ As an incoming student in the lab, part of your on-boarding will be to complete 
 
 ## Get Access {#sec-get-access}
 
+### Access to spaces
+
 The Department requires that the hallway leading to the lab spaces remain locked 24/7. This door is only accessible by keycode associated with your DalCard. The lab manager will need to set up this access for you.
 
 Before you can enter, even if you have been granted access by the Department, you will need a PIN code associated with your DalCard. If you lived in a residence or otherwise have had access to an area on campus that required you tap your DalCard and input a PIN, this door will use the same PIN. Otherwise, if you have not set up a PIN already, you can set one on the [DalCard website](https://www.dal.ca/campus_life/Dalcard/your-dalcard-account.html).
+
+### Access to virtual resources
+
+The project you are working on may have different demands as to what specific resources you need. You should familiarize yourself with the [software](https://libraries.dal.ca/help/software-downloads.html) available to you through Dalhousie. Additionally, the majority of lab communication is carried out through [Slack](https://slack.com/). If you haven't received an invitation, please let the lab manager {{< var names.manager >}} know. If you are working on a systematic review, you will likely need an account created in [Covidence](https://dal.ca.libguides.com/systematicreviews/CovidenceHelp). Otherwise, the specific demands of the project will be communicated to you.
 
 ## Review the Below {#sec-review-the-below}
 

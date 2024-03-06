@@ -1,3 +1,17 @@
 ---
 title: "Data management"
 ---
+
+All study files (excluding anything personal or sensitive; manuscript drafts, design documents, participant data, etc.) should be stored on GitHub. This includes:
+
+-   Analysis or data management code
+
+-   Recruitment materials
+
+-   Copies of any non-sensitive documents; ethics applications, preregistration
+
+Any sensitive files can still be stored in your personal GitHub repository on your computer; however, you must be certain to include the sensitive files/folders in your `.gitignore` file. For more assistance on GitHub, including how to set it up and best practices to follow within the lab, see the [Resources](resources.qmd) page.
+
+## Data cleaning
+
+Once you have your data collected, you must clean your data. Ideally, this step will be carried out while you are recruiting participants.

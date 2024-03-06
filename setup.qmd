@@ -1,3 +1,7 @@
 ---
-title: "Setting up your project"
+title: "Research Practices"
 ---
+
+Our lab is a proponent open science. If you're unfamiliar with open science, please read @kathawalla2021. In short, the goal of open science is to conduct research in a way that is transparent and reproducible. Our goal within this lab is to carry out the research project with documentation of all the steps and decisions made along the way, as well as conducting data management and analyses in a way that is entirely reproducible for anyone else to run. Any person should be able to take your analysis code and run it on your data from their computer for the same output you reported.
+
+This section will prepare you on how to set up your projects and document these steps, from conceptualization to publication.
