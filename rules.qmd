@@ -4,11 +4,15 @@ title: "General lab policies"
 
 ## Respect {#sec-respect}
 
-Please be respectful of not only the people you're working with, but also the spaces you're working within and the equipment you are using. Students should follow the [Dalhousie Code of Student Conduct](https://www.dal.ca/campus_life/safety-respect/student-rights-and-responsibilities/student-life-policies/code-of-student-conduct.html), and researchers must follow the TCPS 2 Code of Ethics (see [Ethics Training](starting.qmd)).
+Please be respectful of not only the people you're working with, but also the spaces you're working within and the equipment you are using. Students are expected to follow the [Dalhousie Code of Student Conduct](https://www.dal.ca/campus_life/safety-respect/student-rights-and-responsibilities/student-life-policies/code-of-student-conduct.html), and researchers must follow the TCPS 2 Code of Ethics (see [Ethics Training](starting.qmd)). Discrimination of any kind will not be tolerated within the lab.
 
-Please note that students are not permitted to smoke [or vape]{.underline} anywhere on campus, especially indoors, as per Dalhousie policy. Under this policy those who wish to smoke are asked to **leave university property**.
+::: callout-note
+In the event of an unresolvable disagreement or conflict between labmates, please bring this to Igor's attention. If the conflict or disagreement is with Igor and you are not comfortable bringing this to his attention, please contact your program head/coordinator.
+:::
 
 When using the lab spaces, please be sure to clean up after yourself and leave the space as you found it. If you notice that the trash or recycling bins are full, please empty them in the communal bins in the hallway and replace the bags (if applicable). Cleaning and sanitizing supplies are available for you to use - please feel free to use them! And if you notice that any supplies are running low, please notify the lab manager.
+
+Please note that students are not permitted to smoke [or vape]{.underline} anywhere on campus, especially indoors, as per Dalhousie policy. Under this policy those who wish to smoke are asked to **leave university property**.
 
 ## Safety & Security {#sec-security}
 
