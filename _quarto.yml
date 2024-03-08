@@ -25,6 +25,7 @@ book:
     - part: setup.qmd
       chapters:
         - initializing.qmd
+        - project.qmd
         - management.qmd
         - analysis.qmd
     - part: clinical.qmd
