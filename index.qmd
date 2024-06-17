@@ -15,4 +15,3 @@ This is the comprehensive guide for students and trainees working within the Tra
 The goal of this document is to provide you with a detailed guide on navigating programs at the University, as well as providing you with the general rules and expectations you should follow while working in the lab. We also provide some resources both for the program and for setting up and conducting research.
 
 This document was inspired by several other documents (see [here](https://rennisonlab.com/lab-manual/) and [here](https://neurocognitive-imaging-lab.gitbook.io/ncil-lab-handbook/4KX9BrRxON7flu3dJyRM/start-here/introduction-to-ncil)) and is a work in progress. If you have feedback and/or suggested updates, please reach out to the lab manager at {{< var emails.manager >}}.
-
