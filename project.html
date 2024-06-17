@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>17&nbsp; Residency – Transdiagnosic Addiction Laboratory Manual</title>
+<title>11&nbsp; Designing your project – Transdiagnosic Addiction Laboratory Manual</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +50,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./references.html" rel="next">
-<link href="./guidelines.html" rel="prev">
+<link href="./management.html" rel="next">
+<link href="./initializing.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -81,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./clinical.html">Clinical program resources</a></li><li class="breadcrumb-item"><a href="./residency.html"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Residency</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./setup.html">Research Practices</a></li><li class="breadcrumb-item"><a href="./project.html"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Designing your project</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -210,7 +230,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./project.html" class="sidebar-item-text sidebar-link">
+  <a href="./project.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Designing your project</span></span></a>
   </div>
 </li>
@@ -257,7 +277,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./residency.html" class="sidebar-item-text sidebar-link active">
+  <a href="./residency.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Residency</span></span></a>
   </div>
 </li>
@@ -274,15 +294,30 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#survey-based-designs" id="toc-survey-based-designs" class="nav-link active" data-scroll-target="#survey-based-designs"><span class="header-section-number">11.1</span> Survey-based designs</a>
+  <ul class="collapse">
+  <li><a href="#attention-checks" id="toc-attention-checks" class="nav-link" data-scroll-target="#attention-checks"><span class="header-section-number">11.1.1</span> Attention checks</a></li>
+  <li><a href="#inconsistency-checks" id="toc-inconsistency-checks" class="nav-link" data-scroll-target="#inconsistency-checks"><span class="header-section-number">11.1.2</span> Inconsistency checks</a></li>
+  </ul></li>
+  <li><a href="#qualitative-designs" id="toc-qualitative-designs" class="nav-link" data-scroll-target="#qualitative-designs"><span class="header-section-number">11.2</span> Qualitative designs</a>
+  <ul class="collapse">
+  <li><a href="#designing-interviews" id="toc-designing-interviews" class="nav-link" data-scroll-target="#designing-interviews"><span class="header-section-number">11.2.1</span> Designing interviews</a></li>
+  <li><a href="#designing-behavioural-observation-studies" id="toc-designing-behavioural-observation-studies" class="nav-link" data-scroll-target="#designing-behavioural-observation-studies"><span class="header-section-number">11.2.2</span> Designing behavioural observation studies</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./clinical.html">Clinical program resources</a></li><li class="breadcrumb-item"><a href="./residency.html"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Residency</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./setup.html">Research Practices</a></li><li class="breadcrumb-item"><a href="./project.html"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Designing your project</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Residency</span></h1>
+<h1 class="title"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Designing your project</span></h1>
 </div>
 
 
@@ -299,8 +334,98 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>This section is not meant to be an exhaustive guide on how to design your projects. Rather, the goal is to provide a few key considerations we believe are important in our lab.</p>
+<section id="survey-based-designs" class="level2" data-number="11.1">
+<h2 data-number="11.1" class="anchored" data-anchor-id="survey-based-designs"><span class="header-section-number">11.1</span> Survey-based designs</h2>
+<p>If you are designing a survey-based study, an important consideration is the use of attention checks and inconsistency checks (see <span class="citation" data-cites="belliveau2022">Belliveau and Yakovenko (<a href="references.html#ref-belliveau2022" role="doc-biblioref">2022</a>)</span>) integrated within the survey. Unfortunately, many participants in survey based research may not be providing genuine answers to our surveys (see <span class="citation" data-cites="belliveau2022a">Belliveau, Soucy, and Yakovenko (<a href="references.html#ref-belliveau2022a" role="doc-biblioref">2022</a>)</span>). Within our lab, we seek to have the highest quality data possible. Part of this process is accomplished through the use of attention checks and inconsistency checks. We generally exclude participants who fail any given attention or inconsistency check in a survey. Additionally, these questions should be distributed evenly throughout the survey.</p>
+<div class="callout callout-style-simple callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Once you have your survey created on REDCap or Qualtrics…
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Before submitting your survey to Igor for review, you should first:</p>
+<ul>
+<li><p>Compile a document of questionnaires with references and a table of contents</p></li>
+<li><p>Ensure that all questions from the above document are present in the survey</p></li>
+<li><p>Ensure that all variables needed for your hypotheses are present in the survey</p></li>
+<li><p>Check spelling, grammar, and formatting</p></li>
+<li><p>Check all branching logic with any answer possibilities</p></li>
+<li><p>Avoid the use of unnecessary text-entry boxes (dropdown boxes or checkboxes are preferred)</p></li>
+<li><p>Have peers in the lab conduct test runs through the survey and determine the average completion time. Does this align with what was estimated in your ethics application?</p></li>
+</ul>
+</div>
+</div>
+<section id="attention-checks" class="level3" data-number="11.1.1">
+<h3 data-number="11.1.1" class="anchored" data-anchor-id="attention-checks"><span class="header-section-number">11.1.1</span> Attention checks</h3>
+<p>We use several types of attention checks. You should incorporate at least 1 of each type within your survey (for shorter survey designs, e.g.&nbsp;as part of a qualitative study, 1 or 2 attention checks in total are sufficient). The wording of these questions should be simple and straightforward; our goal is not to deceive participants, but rather catch those who are picking responses without reading the question prompts.</p>
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td>Select-C-type</td>
+<td>These types of questions instruct participants on which answer choice to select. Participants selecting any answer other than the instructed answer choice are considered inattentive.</td>
+</tr>
+<tr class="even">
+<td>Quiz-type</td>
+<td>These questions quiz participants on instructions they should have read. Note that Dalhousie REB often requires this type of quiz with regards to evaluating informed consent for participants.</td>
+</tr>
+<tr class="odd">
+<td><a href="https://en.wikipedia.org/wiki/Honeypot_(computing)">Honeypot</a>-type</td>
+<td>These questions aim to minimize <a href="https://en.wikipedia.org/wiki/Social-desirability_bias">desirability bias</a>. These types of questions may, for example, ask participants if they completed some training program unrelated to the study and if so, provide participants with open-ended responses for feedback on this program. Any participants who indicate participating in the training and providing feedback are considered ingenuine.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="inconsistency-checks" class="level3" data-number="11.1.2">
+<h3 data-number="11.1.2" class="anchored" data-anchor-id="inconsistency-checks"><span class="header-section-number">11.1.2</span> Inconsistency checks</h3>
+<p>These types of questions should serve to double-check both <u>inclusion criteria</u> and <u>key variables</u> to the study. These questions can be formatted as simple repetitions (e.g., asking for participants’ age twice at two points within the survey) or by evaluating variations of the same question (e.g., asking for participants’ age at one point, and later asking for date of birth).</p>
+<p>As many projects within our lab are on the topic of addiction, these questions can evaluate the behaviours or substances under examination. For example, if it’s required that participants play video games at least once per week over 3 months, you may have this question in your screening questions:</p>
+<blockquote class="blockquote">
+<p>How often over the past 3 months have you played video games?</p>
+<ul>
+<li><p>Daily</p></li>
+<li><p>Every 2 to 3 days</p></li>
+<li><p>Once per week</p></li>
+<li><p>Less than once per week</p></li>
+<li><p>I have not played video games in the past 3 months</p></li>
+</ul>
+</blockquote>
+<p>Here, the first 3 answer choices are considered eligible for the study. A follow-up question later in the study evaluating participants’ gaming behaviour can be formatted as follows:</p>
+<blockquote class="blockquote">
+<p>Over the past 3 months, how long is your typical gaming session?</p>
+<ul>
+<li><p>&lt;1 hour</p></li>
+<li><p>1-3 hours</p></li>
+<li><p>3&lt; hours</p></li>
+<li><p>I have not played video games in the past 3 months</p></li>
+</ul>
+</blockquote>
+<p>In this case, participants should never select the final answer choice. Any participants who do can be considered ineligible.</p>
+</section>
+</section>
+<section id="qualitative-designs" class="level2" data-number="11.2">
+<h2 data-number="11.2" class="anchored" data-anchor-id="qualitative-designs"><span class="header-section-number">11.2</span> Qualitative designs</h2>
+<section id="designing-interviews" class="level3" data-number="11.2.1">
+<h3 data-number="11.2.1" class="anchored" data-anchor-id="designing-interviews"><span class="header-section-number">11.2.1</span> Designing interviews</h3>
+</section>
+<section id="designing-behavioural-observation-studies" class="level3" data-number="11.2.2">
+<h3 data-number="11.2.2" class="anchored" data-anchor-id="designing-behavioural-observation-studies"><span class="header-section-number">11.2.2</span> Designing behavioural observation studies</h3>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-belliveau2022a" class="csl-entry" role="listitem">
+Belliveau, Jacob, Krystal I. Soucy, and Igor Yakovenko. 2022. <span>“The Validity of Qualtrics Panel Data for Research on Video Gaming and Gaming Disorder.”</span> <em>Experimental and Clinical Psychopharmacology</em> 30 (4): 424–31. <a href="https://doi.org/10.1037/pha0000575">https://doi.org/10.1037/pha0000575</a>.
+</div>
+<div id="ref-belliveau2022" class="csl-entry" role="listitem">
+Belliveau, Jacob, and Igor Yakovenko. 2022. <span>“Evaluating and Improving the Quality of Survey Data from Panel and Crowd-Sourced Samples: A Practical Guide for Psychological Research.”</span> <em>Experimental and Clinical Psychopharmacology</em> 30 (4): 400–408. <a href="https://doi.org/10.1037/pha0000564">https://doi.org/10.1037/pha0000564</a>.
+</div>
+</div>
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -725,13 +850,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./guidelines.html" class="pagination-link" aria-label="Program resources and guidelines">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Program resources and guidelines</span></span>
+      <a href="./initializing.html" class="pagination-link" aria-label="Initializing your project">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Initializing your project</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./references.html" class="pagination-link" aria-label="References">
-        <span class="nav-page-text">References</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./management.html" class="pagination-link" aria-label="Data management">
+        <span class="nav-page-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Data management</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
