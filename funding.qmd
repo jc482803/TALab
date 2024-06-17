@@ -1,3 +1,5 @@
 ---
 title: "Funding opportunities"
 ---
+
+To include information regarding funding caps, TAships, as well as grant opportunities students should be applying for.
