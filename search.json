@@ -1,5 +1,15 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Transdiagnosic Addiction Laboratory Manual",
+    "section": "",
+    "text": "Welcome\nWelcome to the Transdiagnostic Addiction Laboratory at Dalhousie University - we are glad to have you!\nThis is the comprehensive guide for students and trainees working within the Transdiagnostic Addiction Laboratory at Dalhousie University. Dalhousie University is located in Mi’kma’ki, the ancestral and unceded territory of the Mi’kmaq. We are all Treaty people.\nThe goal of this document is to provide you with a detailed guide on navigating programs at the University, as well as providing you with the general rules and expectations you should follow while working in the lab. We also provide some resources both for the program and for setting up and conducting research.\nThis document was inspired by several other documents (see here and here) and is a work in progress. If you have feedback and/or suggested updates, please reach out to the lab manager at em854359@dal.ca.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
     "objectID": "mission.html",
     "href": "mission.html",
     "title": "1  Mission statement",
@@ -22,13 +32,63 @@
     ]
   },
   {
+    "objectID": "starting.html",
+    "href": "starting.html",
+    "title": "New to the lab? Start here",
+    "section": "",
+    "text": "Read this manual\nThis manual contains all of the policies and expectations you are expected to follow while working in the lab, and provides you with many resources you may need throughout your research journey. Our goal with this document is to add in resources as they come up through working with students on different research projects.\nIt is good practice to consult this manual before asking Igor for assistance on a specific topic.",
+    "crumbs": [
+      "New to the lab? Start here"
+    ]
+  },
+  {
+    "objectID": "starting.html#sec-complete-ethics-training",
+    "href": "starting.html#sec-complete-ethics-training",
+    "title": "New to the lab? Start here",
+    "section": "Complete Ethics Training",
+    "text": "Complete Ethics Training\nAs an incoming student in the lab, part of your on-boarding will be to complete the TCPS 2: CORE Course on Research Ethics. You will not be permitted to participate in research within the lab until you have completed this course and emailed proof of completion to the lab manager, Emma at em854359@dal.ca.",
+    "crumbs": [
+      "New to the lab? Start here"
+    ]
+  },
+  {
+    "objectID": "starting.html#sec-get-access",
+    "href": "starting.html#sec-get-access",
+    "title": "New to the lab? Start here",
+    "section": "Get Access",
+    "text": "Get Access\n\nAccess to spaces\nThe Department requires that the hallway leading to the lab spaces remain locked 24/7. This door is only accessible by keycode associated with your DalCard. The lab manager will need to set up this access for you.\nBefore you can enter, even if you have been granted access by the Department, you will need a PIN code associated with your DalCard. If you lived in a residence or otherwise have had access to an area on campus that required you tap your DalCard and input a PIN, this door will use the same PIN. Otherwise, if you have not set up a PIN already, you can set one on the DalCard website.\n\n\nAccess to virtual resources\nThe project you are working on may have different demands as to what specific resources you need. You should familiarize yourself with the software available to you through Dalhousie. Additionally, the majority of lab communication is carried out through Slack. If you haven’t received an invitation, please let the lab manager Emma know. If you are working on a systematic review, you will likely need an account created in Covidence. Students enrolled in the lab will need to get access to OneDrive, where all research files relating to the lab are stored. Otherwise, the specific demands of the project will be communicated to you.\n\nSocial media\nThe lab has several social media accounts (Twitter/X, Reddit, Kijiji, and Instagram) which are available for use by students in the lab upon request. If you would like to make use of these accounts for your research projects and you have approval from Dr. Yakovenko, please ask the lab manager Emma for access. These can be used to post your own recruitment advertisements, or to reach out to other social media pages for sharing your recruitment materials.",
+    "crumbs": [
+      "New to the lab? Start here"
+    ]
+  },
+  {
+    "objectID": "starting.html#lab-website",
+    "href": "starting.html#lab-website",
+    "title": "New to the lab? Start here",
+    "section": "Lab Website",
+    "text": "Lab Website\nAll lab members are encouraged to submit a semi-professional headshot and short biography to be posted on our lab website. This information allows us to showcase our lab members, and also allows you to have some proof of engagement with the lab beyond your CV entry. You can view some example biographies on the lab website. In general, these should give a brief description of yourself both professionally and personally, as well as your research interests. The photographs must be taken in landscape format and should not be blurry. You can also provide social media links which can be linked alongside your bio. Once you have this information, please forward it to em854359@dal.ca to be posted on the lab drive.",
+    "crumbs": [
+      "New to the lab? Start here"
+    ]
+  },
+  {
+    "objectID": "starting.html#sec-review-the-below",
+    "href": "starting.html#sec-review-the-below",
+    "title": "New to the lab? Start here",
+    "section": "Review the Below",
+    "text": "Review the Below\nDepending on whether you are an incoming Volunteer, Honours or (In)dependent project student, or Graduate student, you may have further steps you should consider. Please consult the relevant sections.",
+    "crumbs": [
+      "New to the lab? Start here"
+    ]
+  },
+  {
     "objectID": "volunteer.html",
     "href": "volunteer.html",
     "title": "2  Volunteer Students",
     "section": "",
-    "text": "Volunteers within the lab must sign the volunteer agreement form and return it to the lab manager, Emma.\nGenerally, students are expected to commit an average of 3 hours per work to working within the lab. This work need not be completed on campus if the nature of your work permits you to work from home; however, all students are encouraged to work on campus if possible. Working on campus is a great opportunity to meet your fellow labmates, make new friends, and learn about research going on in the lab.",
+    "text": "2.1 Expectations\nGenerally, students are expected to commit an average of 3 hours per work to working within the lab for a 1-year commitment. This work need not be completed on campus if the nature of your work permits you to work from home; however, all students are encouraged to work on campus if possible. Working on campus is a great opportunity to meet your fellow labmates, make new friends, and learn about research going on in the lab.\nOccasionally, the demands of the lab may change and we may ask that you shift your focus to a different project than the one you are currently working on. We expect volunteers within the lab to be flexible within reason, and to be able to shift projects if requested by Dr. Yakovenko.\nWe understand that sometimes, circumstances change and you may no longer be able to participate to the degree that you had initially agreed to, or you may no longer be able to participate at all. If that’s the case, please inform Dr. Yakovenko as soon as possible.",
     "crumbs": [
-      "Getting Started",
+      "New to the lab? Start here",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Volunteer Students</span>"
     ]
   },
@@ -37,9 +97,9 @@
     "href": "undergrad.html",
     "title": "3  Undergraduate students",
     "section": "",
-    "text": "3.1 Honours students\nHonours students are expected to…",
+    "text": "3.1 Honours students\nHonours students are expected to develop their own research idea, often within an existing project. While there is some flexibility on research topic, it generally must fall under topics already under investigation by other students in the lab.\nPlease note that the deadline for applying for the Honours program is usually around the end of the Winter term. However, it is a good idea for you to reach out to potential supervisors well before this deadline. You must have secured a supervisor before you may apply.\nFor more information about the Honours program, please visit the department page. If you have any questions regarding the honours program, please reach out to your program coordinators at psychhon@dal.ca.",
     "crumbs": [
-      "Getting Started",
+      "New to the lab? Start here",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Undergraduate students</span>"
     ]
   },
@@ -48,9 +108,9 @@
     "href": "undergrad.html#dependent-or-independent-project-students",
     "title": "3  Undergraduate students",
     "section": "3.2 Dependent or independent project students",
-    "text": "3.2 Dependent or independent project students\nThese students are expected to…",
+    "text": "3.2 Dependent or independent project students\nThese students are expected to work collaboratively with their supervisor on creating the course syllabus. The nature of your project may vary depending on whether you are enrolled in PSYO/NESC 3001/3002 (dependent projects) or PSYO/NESC 3100 (independent projects). You can consult the academic calendar or department website to learn more about these courses.\nFor single-semester (dependent) projects, you will likely be involved in undertaking a secondary analysis of a dataset which already exists within the lab, or undertaking a much less intensive research project (e.g., developping and testing a protocol).\nYou will also be expected to complete your commitment to the project beyond the scope of your course. For example, if your project involves the creation of a lab protocol, you will be expected to continue volunteering with the lab on testing and finalizing this protocol, even if this was outside of the scope of your syllabus and your course has already been completed.",
     "crumbs": [
-      "Getting Started",
+      "New to the lab? Start here",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Undergraduate students</span>"
     ]
   },
@@ -59,10 +119,31 @@
     "href": "graduate.html",
     "title": "4  Graduate students",
     "section": "",
-    "text": "Graduate students within the lab are expected to recruit undergraduate (Honours) students to assist them with their comprehensive (if running a new study) and dissertation projects. These students will be co-supervised by you and Igor. This will provide you with both supervisory experience, and invaluable labour from the undergraduate student to further your research.",
+    "text": "4.1 Expectations",
     "crumbs": [
-      "Getting Started",
+      "New to the lab? Start here",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Graduate students</span>"
+    ]
+  },
+  {
+    "objectID": "graduate.html#expectations",
+    "href": "graduate.html#expectations",
+    "title": "4  Graduate students",
+    "section": "",
+    "text": "4.1.1 Development of Research Projects\nGraduate students within the lab are expected to develop their own research projects in collaboration with Dr. Yakovenko and their co-supervisors, if applicable. You are expected to carry out these projects independently or with the assistance/collaboration of other students in the program. Your PI and co-supervisor(s) are only to provide oversight and advise you should you have any questions.\nIncoming students are expected to proactively conduct literature reviews and attend research development meetings with ideas for their own research projects, rather than waiting to be provided with ideas by their supervisor(s).\nWhile there is flexibility around the research topics, all topics must fall within the mandate of the lab’s work. If a student is accepted into the program to help support the work on a specific grant, they will be expected to develop a research project within that grant.\nGraduate students within the lab are expected to recruit undergraduate (Honours) students to assist them with their comprehensive (if running a new study) and dissertation projects. These students will be co-supervised by you and Igor. This will provide you with both supervisory experience, and invaluable labour from the undergraduate student to further your research.\n\n\n4.1.2 Supervision meetings\nStudents will be expected to meet regularly with Dr. Yakovenko for supervision. Meeting frequency will vary based on personal factors and the training level of the student. Junior students (first 2 years of their training) will be expected to meet with Dr. Yakovenko weekly for 30 minutes. Senior students can expect to meet with Dr. Yakovenko every 2 weeks for 30 minutes.\nThe purpose of these meetings is to check in and provide updates on the work that has been done since the last meeting, as well as addressing any questions or concerns that cannot be adequately addressed via email and/or Slack. Examples of topics which can be addressed via email/Slack include troubleshooting statistics/code, requests to review documents, or questions about the program. Meeting times should be reserved for project planning, personal discussions, and supervisory guidance surrounding the program or your training (e.g., research, practicum, milestones, dissertation).\n\n\n\n\n\n\nTip\n\n\n\nIf you do not need your regular meeting, please let Dr. Yakovenko know, as well as the lab manager Emma to cancel your meeting.\n\n\nTo schedule your meetings, contact the lab manager or click the scheduling link to schedule your meetings directly.\n\n\n4.1.3 Clinical training\nStudents are expected to familiarize themselves with program resources. These resources, including the program handbook and practicum guidelines, are available on the program website. If you have any questions about the program, you can reach out to the program administrators at clinprog@dal.ca. Be sure to familiarize yourself with the timelines of the program, including comprehensive projects, dissertation, coursework by year, and practicum hour requirements.",
+    "crumbs": [
+      "New to the lab? Start here",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Graduate students</span>"
+    ]
+  },
+  {
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "Policies & Resources",
+    "section": "",
+    "text": "There are several general rules and expectations students are expected to follow while working within the lab, as well as several resources collated here which students are expected to consult before asking Igor for assistance. Please review the sections below!",
+    "crumbs": [
+      "Policies & Resources"
     ]
   },
   {
@@ -99,25 +180,112 @@
     ]
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "9  Resources",
-    "section": "",
-    "text": "9.1 Using R\nFor statistical analyses, students are able to use any analytic platform with which they are comfortable. However, Igor strongly recommends that students learn R and conduct analyses using R.\nIf you’ve never used R, you will first need to download R and then an IDE (Integrated Development Environment). Simply downloading R is not sufficient for using R. There are several IDEs that can be used for R, the most common and specialized being RStudio. You are free to use any IDEs you would like - however, the content in this manual will assume you are using RStudio.",
+    "objectID": "rules.html#work-policies",
+    "href": "rules.html#work-policies",
+    "title": "5  General lab policies",
+    "section": "5.3 Work policies",
+    "text": "5.3 Work policies\nWork-life balance is important in the lab. We have no expectation of students working a certain number of hours per week. Rather, the important part is establishing reasonable deadlines and meeting those deadlines.\nStudents are permitted to take time off, if permitted by their program and any other responsibilities. For students in the Clinical program, vacation days are outlined in the student handbook. Before scheduling vacation, you must have approval from whoever you are working with at the time, including Dr. Yakovenko as well as any other supervisors or coordinators in the program. Vacation should not interfere with program milestones; students are still expected to fulfill their responsibilities before departing.",
     "crumbs": [
       "Policies & Resources",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>General lab policies</span>"
+    ]
+  },
+  {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "7  Funding opportunities",
+    "section": "",
+    "text": "7.1 Funding opportunities\nBelow is a list of funding opportunities available to most students. If there are other funding opportunities you believe should be added here, please email em854359@dal.ca to request modifications. Note that the deadlines provided below are subject to change; please verify with the funding agencies.\nThere is also a list managed by the University available here.\nInformation surrounding the base stipends, Teaching Assistant (TA) commitments, and general funding can be found in the student handbook.",
+    "crumbs": [
+      "Policies & Resources",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Funding opportunities</span>"
+    ]
+  },
+  {
+    "objectID": "funding.html#funding-opportunities",
+    "href": "funding.html#funding-opportunities",
+    "title": "7  Funding opportunities",
+    "section": "",
+    "text": "Name\nDeadline\nDescription\n\n\n\n\nTri-Council Scholarships (CGS-M and CGS-D)\nCGS-M: Early December\nCGS-D: Mid-October\nEach available to students once during their program. Available to all students within the program. Note that CGS-D has different applications depending on the funding agency (CIHR, NSERC, SSHRC); please ensure you are applying under the correct agency for your project.\n\n\nScotia Scholars Award\nLate April\nAvailable to Master’s students as well as PhD students.\n\n\nMSSU Student Awards\nMarch\nAvailable to Master’s and PhD students conducting research relevant to the mandate of the MSSU addressing health research priorities within Nova Scotia.\n\n\nHarmonized Scholarship\nJanuary\nHarmonized scholarship application managed by Dalhousie, available to all graduate students yearly.\n\n\nKillam Scholarships\nSame as Harmonized Scholarships\nAvailable to Master’s (Level 1) and PhD (Level 2) students. Apply as part of the Harmonized Scholarships.\n\n\nMitacs\nVaries\nPrograms vary. Check available programs and see if any align with your research goals. Opportunities available to both Master’s and PhD students.",
+    "crumbs": [
+      "Policies & Resources",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Funding opportunities</span>"
+    ]
+  },
+  {
+    "objectID": "lab.html",
+    "href": "lab.html",
+    "title": "8  Lab space and resources",
+    "section": "",
+    "text": "8.1 Our areas\nWe have five rooms available for use by students working with the lab. These rooms are located in the Psychology & Neuroscience wing of the Life Sciences Centre on the Studley campus. Our rooms are located on the second floor (same floor as the lounge and main office for Psychology and Neuroscience) just behind the lounge. You will require access before you are able to enter these spaces; see here for more information.\nOur rooms are P3388 to P3392. P3388 is the main lab area open to all students. Several computers can be found there, as well as a printer. Please feel free to use this space. P3392 is the office of the lab manager. P3389, P3390, and P3391 are storage/research spaces available for use upon request to Dr. Yakovenko.",
+    "crumbs": [
+      "Policies & Resources",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lab space and resources</span>"
+    ]
+  },
+  {
+    "objectID": "lab.html#our-areas",
+    "href": "lab.html#our-areas",
+    "title": "8  Lab space and resources",
+    "section": "",
+    "text": "8.1.1 Lab space rules\nAs mentioned here, please clean up after yourself when using the lab space. The available printer is for use for tasks relating to the lab; please do not print unrelated coursework using this printer. There is a microwave, fridge, kettle, and coffeemaker in the main lab area. Feel free to use these as well. Note that the coffeemaker uses Nespresso pods; if you would like to make use of this machine, please bring your own pods. If supplies are running low, please notify Emma or Dr. Yakovenko. When exiting the space, be sure to turn off all lights and close/lock the door behind you.\nLab spaces are not to be used for research purposes without prior approval from Dr. Yakovenko.\nAs per department policy, only graduate students may be granted keys to access the space. Undergraduate students must use the key located within the lockbox.",
+    "crumbs": [
+      "Policies & Resources",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lab space and resources</span>"
+    ]
+  },
+  {
+    "objectID": "lab.html#personnel",
+    "href": "lab.html#personnel",
+    "title": "8  Lab space and resources",
+    "section": "8.2 Personnel",
+    "text": "8.2 Personnel\nThe lab often has access to several volunteers or paid research assistants (RAs) working within the lab. If you think your project could use the assistance of a volunteer/RA, please discuss with Dr. Yakovenko. These volunteers/RAs are to be assigned to work on projects solely by Dr. Yakovenko. Please note that while research assistants may assist with the comprehensive/thesis projects of graduate students, the majority of the work must still be carried out by the graduate students.",
+    "crumbs": [
+      "Policies & Resources",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lab space and resources</span>"
+    ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "9  General Resources",
+    "section": "",
+    "text": "9.1 Using R\nFor statistical analyses, Igor strongly recommends that students learn R and conduct analyses using R. However, exceptions may be made on a case-by-case basis.\nIf you’ve never used R, you will first need to download R and then an IDE (Integrated Development Environment). Simply downloading R is not sufficient for using R. There are several IDEs that can be used for R, the most common and specialized being RStudio. You are free to use any IDEs you would like - however, the content in this manual will assume you are using RStudio.\nFor more information and tutorial websites/videos, please see the below.",
+    "crumbs": [
+      "Policies & Resources",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>General Resources</span>"
+    ]
+  },
+  {
+    "objectID": "resources.html#using-r",
+    "href": "resources.html#using-r",
+    "title": "9  General Resources",
+    "section": "",
+    "text": "Quarto\nResources for using Quarto. Quarto is used to generate reports alongside R code; useful for analyses.\n\n\nOperators in R\nResource demonstrating different logical and arithmetical operators in R.\n\n\nReferencing and assignment\nDemonstrates how to reference rows or columns in data frames.\n\n\nIntro to R\nGeneral guide containing information on how to code, basic operations, variable types, and simple functions.",
+    "crumbs": [
+      "Policies & Resources",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>General Resources</span>"
     ]
   },
   {
     "objectID": "resources.html#setting-up-github",
     "href": "resources.html#setting-up-github",
-    "title": "9  Resources",
+    "title": "9  General Resources",
     "section": "9.2 Setting up GitHub",
-    "text": "9.2 Setting up GitHub\nAll projects you work on within the lab should be stored on Github. Note that data should never be stored on Github; rather, only the analysis code and any relevant documents should be stored within.\nFor more information and tutorial websites/videos, please see the below.\n\n\n\nSetting up R projects to GitHub\nA short step-by-step video on how to add your existing projects to GitHub.",
+    "text": "9.2 Setting up GitHub\nAll projects you work on within the lab should be stored on Github. Note that data should never be stored on Github; rather, only the analysis code and any relevant documents should be stored within.\nFor more information and tutorial websites/videos, please see the below.\n\n\n\nSetting up R projects to GitHub\nA short step-by-step video on how to add your existing projects to GitHub.\n\n\nHappy Git With R\nIn-depth guide to using GitHub with R, including how to set up repositories.",
     "crumbs": [
       "Policies & Resources",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>General Resources</span>"
+    ]
+  },
+  {
+    "objectID": "setup.html",
+    "href": "setup.html",
+    "title": "Research Practices",
+    "section": "",
+    "text": "Our lab is a proponent open science. If you’re unfamiliar with open science, please read Kathawalla, Silverstein, and Syed (2021). In short, the goal of open science is to conduct research in a way that is transparent and reproducible. Our goal within this lab is to carry out the research project with documentation of all the steps and decisions made along the way, as well as conducting data management and analyses in a way that is entirely reproducible for anyone else to run. Any person should be able to take your analysis code and run it on your data from their computer for the same output you reported.\nThis section will prepare you on how to set up your projects and document these steps, from conceptualization to publication.\n\n\n\n\nKathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed. 2021. “Easing Into Open Science: A Guide for Graduate Students and Their Advisors.” Collabra: Psychology 7 (1). https://doi.org/10.1525/collabra.18684.",
+    "crumbs": [
+      "Research Practices"
     ]
   },
   {
@@ -136,7 +304,7 @@
     "href": "initializing.html#preregistration",
     "title": "10  Initializing your project",
     "section": "10.2 Preregistration",
-    "text": "10.2 Preregistration\nAll studies being carried out within the lab must be preregistered. Generally our lab preregisters studies using the Open Science Framework (OSF). Depending on the nature of your study, PROSPERO may also be an option.\nThe goal of preregistration is to delineate the steps that the project will take. In essence, you are writing the introduction and methods section of your paper. This should include:\n\nBrief overview of the background. Why is this project important? What makes it unique? What is the theoretical rationale for your project?\nMethods used:\n\nParticipant inclusion criteria, required sample size, as well as power analyses\nMeasures and/or instruments used for data collection\nPlanned analyses\n\n\nOnce you create your preregistration, you will be provided with a DOI. This DOI should be published along with your manuscript to serve as a record of your study design and decisions made. An added benefit of preregistration is that it also gives you a chance to thoroughly conceptualize your study, as well as providing you with a solid first draft of your introduction and methods section when it comes time for you to write your manuscript.\n\n10.2.1 Amending your preregistration\nPreregistration should be thought of as a plan for your research study. Regardless of how much you prepare and think ahead, it’s always a possibility that things change along your research journey. If you make changes to the design of your study, these changes should be reflected within your preregistration through an amendment. Generally you must provide: 1) the changes made, 2) the rationale for the changes, and 3) the impact of these changes on your study.",
+    "text": "10.2 Preregistration\nAll studies being carried out within the lab must be preregistered. Generally our lab preregisters studies using the Open Science Framework (OSF). Depending on the nature of your study, PROSPERO may also be an option.\nThe goal of preregistration is to delineate the steps that the project will take. In essence, you are writing the introduction and methods section of your paper. This should include:\n\nBrief overview of the background. Why is this project important? What makes it unique? What is the theoretical rationale for your project?\nMethods used:\n\nParticipant inclusion criteria, required sample size, as well as power analyses\nMeasures and/or instruments used for data collection\nPlanned analyses\n\n\nOnce you create your preregistration, you will be provided with a DOI. This DOI should be published along with your manuscript to serve as a record of your study design and decisions made. An added benefit of preregistration is that it also gives you a chance to thoroughly conceptualize your study, as well as providing you with a solid first draft of your introduction and methods section when it comes time for you to write your manuscript.\n\n10.2.1 Amending your preregistration\nPreregistration should be thought of as a plan for your research study. Regardless of how much you prepare and think ahead, it’s always a possibility that things change along your research journey. If you make changes to the design of your study, these changes should be reflected within your preregistration through an amendment. Generally you must provide: 1) the changes made, 2) the rationale for the changes, and 3) the impact of these changes on your study.\nStudents who are deviating from their amendment should consult this article by Daniel Lakens titled “When and How to Deviate From a Preregistration” (doi: 10.1525/collabra.117094).",
     "crumbs": [
       "Research Practices",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Initializing your project</span>"
@@ -200,12 +368,12 @@
   {
     "objectID": "analysis.html",
     "href": "analysis.html",
-    "title": "13  Analysis",
+    "title": "13  Analyses & Related Resources",
     "section": "",
-    "text": "You are free to choose the software you wish to use to carry out analyses. However, Igor recommends all trainees learn how to use R.",
+    "text": "For statistical analyses, Igor strongly recommends that students learn R and conduct analyses using R. However, exceptions may be made on a case-by-case basis. For resources on R usage, consult this chapter. Below, you can find a variety of resources which you may need throughout the course of your program.\nAny resources missing? Please email Emma to have them added to the list.\n\n\n\nLearning Statistics with R\nGeneral resource for getting started with analyses in R. Specifically geared towards Psychology students.\n\n\n\nModerated mediation\nHow-to and sample size guide\n\n\n\nHandling missing data\nIncluding Little’s MCAR and diagnosing\n\n\n\nEffect size calculators\nThis website for Chi-square/T-tests.\n\n\n\nBootstrapping\nThis website for an explanation of what bootstrapping is and use cases.\n\n\n\nPower analyses / sample size calculators\nThis resource for SEM. Also consider using GPower.\n\n\n\nHandling outliers | Descriptions of the different means to handle outliers and when you should use them.\n\n\n\n\nDirected Acyclical Graphs (DAGs)\nWebsite for creating your own DAGs.\n\n\n\nContent/thematic analysis\nBelow, you will find a variety of resources specific to content/thematic analysis.\n\nUnderstanding data saturation\nDescription of thematic analysis\n2 gold standard papers to follow along for the coding process (1, 2)\nExample writeup using thematic analysis\nHow-to guide\nJustification of sample size",
     "crumbs": [
       "Research Practices",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Analysis</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Analyses & Related Resources</span>"
     ]
   },
   {
@@ -216,76 +384,6 @@
     "text": "Belliveau, Jacob, Krystal I. Soucy, and Igor Yakovenko. 2022. “The\nValidity of Qualtrics Panel Data for Research on Video Gaming and Gaming\nDisorder.” Experimental and Clinical Psychopharmacology\n30 (4): 424–31. https://doi.org/10.1037/pha0000575.\n\n\nBelliveau, Jacob, and Igor Yakovenko. 2022. “Evaluating and\nImproving the Quality of Survey Data from Panel and Crowd-Sourced\nSamples: A Practical Guide for Psychological Research.”\nExperimental and Clinical Psychopharmacology 30 (4): 400–408.\nhttps://doi.org/10.1037/pha0000564.\n\n\nKathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed. 2021.\n“Easing Into Open Science: A Guide for Graduate Students and Their\nAdvisors.” Collabra: Psychology 7 (1). https://doi.org/10.1525/collabra.18684.",
     "crumbs": [
       "References"
-    ]
-  },
-  {
-    "objectID": "starting.html",
-    "href": "starting.html",
-    "title": "Getting Started",
-    "section": "",
-    "text": "Read this manual\nThis manual contains all of the policies and expectations you are expected to follow while working in the lab, and provides you with many resources you may need throughout your research journey. Our goal with this document is to add in resources as they come up through working with students on different research projects.\nIt is good practice to consult this manual before asking Igor for assistance on a specific topic.",
-    "crumbs": [
-      "Getting Started"
-    ]
-  },
-  {
-    "objectID": "starting.html#sec-complete-ethics-training",
-    "href": "starting.html#sec-complete-ethics-training",
-    "title": "Getting Started",
-    "section": "Complete Ethics Training",
-    "text": "Complete Ethics Training\nAs an incoming student in the lab, part of your on-boarding will be to complete the TCPS 2: CORE Course on Research Ethics. You will not be permitted to participate in research within the lab until you have completed this course and emailed proof of completion to the lab manager, Emma at em854359@dal.ca.",
-    "crumbs": [
-      "Getting Started"
-    ]
-  },
-  {
-    "objectID": "starting.html#sec-get-access",
-    "href": "starting.html#sec-get-access",
-    "title": "Getting Started",
-    "section": "Get Access",
-    "text": "Get Access\n\nAccess to spaces\nThe Department requires that the hallway leading to the lab spaces remain locked 24/7. This door is only accessible by keycode associated with your DalCard. The lab manager will need to set up this access for you.\nBefore you can enter, even if you have been granted access by the Department, you will need a PIN code associated with your DalCard. If you lived in a residence or otherwise have had access to an area on campus that required you tap your DalCard and input a PIN, this door will use the same PIN. Otherwise, if you have not set up a PIN already, you can set one on the DalCard website.\n\n\nAccess to virtual resources\nThe project you are working on may have different demands as to what specific resources you need. You should familiarize yourself with the software available to you through Dalhousie. Additionally, the majority of lab communication is carried out through Slack. If you haven’t received an invitation, please let the lab manager Emma know. If you are working on a systematic review, you will likely need an account created in Covidence. Otherwise, the specific demands of the project will be communicated to you.",
-    "crumbs": [
-      "Getting Started"
-    ]
-  },
-  {
-    "objectID": "starting.html#sec-review-the-below",
-    "href": "starting.html#sec-review-the-below",
-    "title": "Getting Started",
-    "section": "Review the Below",
-    "text": "Review the Below\nDepending on whether you are an incoming Volunteer, Honours or (In)dependent project student, or Graduate student, you may have further steps you should consider. Please consult the relevant sections.",
-    "crumbs": [
-      "Getting Started"
-    ]
-  },
-  {
-    "objectID": "policies.html",
-    "href": "policies.html",
-    "title": "Policies & Resources",
-    "section": "",
-    "text": "There are several general rules and expectations students are expected to follow while working within the lab, as well as several resources collated here which students are expected to consult before asking Igor for assistance. Please review the sections below!",
-    "crumbs": [
-      "Policies & Resources"
-    ]
-  },
-  {
-    "objectID": "setup.html",
-    "href": "setup.html",
-    "title": "Research Practices",
-    "section": "",
-    "text": "Our lab is a proponent open science. If you’re unfamiliar with open science, please read Kathawalla, Silverstein, and Syed (2021). In short, the goal of open science is to conduct research in a way that is transparent and reproducible. Our goal within this lab is to carry out the research project with documentation of all the steps and decisions made along the way, as well as conducting data management and analyses in a way that is entirely reproducible for anyone else to run. Any person should be able to take your analysis code and run it on your data from their computer for the same output you reported.\nThis section will prepare you on how to set up your projects and document these steps, from conceptualization to publication.\n\n\n\n\nKathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed. 2021. “Easing Into Open Science: A Guide for Graduate Students and Their Advisors.” Collabra: Psychology 7 (1). https://doi.org/10.1525/collabra.18684.",
-    "crumbs": [
-      "Research Practices"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Transdiagnosic Addiction Laboratory Manual",
-    "section": "",
-    "text": "Welcome\nWelcome to the Transdiagnostic Addiction Laboratory at Dalhousie University - we are glad to have you!\nThis is the comprehensive guide for students and trainees working within the Transdiagnostic Addiction Laboratory at Dalhousie University. Dalhousie University is located in Mi’kma’ki, the ancestral and unceded territory of the Mi’kmaq. We are all Treaty people.\nThe goal of this document is to provide you with a detailed guide on navigating programs at the University, as well as providing you with the general rules and expectations you should follow while working in the lab. We also provide some resources both for the program and for setting up and conducting research.\nThis document was inspired by several other documents (see here and here) and is a work in progress. If you have feedback and/or suggested updates, please reach out to the lab manager at em854359@dal.ca.",
-    "crumbs": [
-      "Welcome"
     ]
   }
 ]
