@@ -1,12 +1,21 @@
 ---
-title: "Resources"
+title: "General Resources"
 ---
 
 ## Using R
 
-For statistical analyses, students are able to use any analytic platform with which they are comfortable. However, Igor strongly recommends that students learn R and conduct analyses using R.
+For statistical analyses, Igor strongly recommends that students learn R and conduct analyses using R. However, exceptions may be made on a case-by-case basis.
 
 If you've never used R, you will first need to [download R](https://cran.r-project.org/) and then an IDE (**I**ntegrated **D**evelopment **E**nvironment). Simply downloading R is not sufficient for using R. There are several IDEs that can be used for R, the most common and specialized being [RStudio](https://posit.co/). You are free to use any IDEs you would like - however, the content in this manual will assume you are using RStudio.
+
+For more information and tutorial websites/videos, please see the below.
+
+|                                                                                               |                                                                                                              |
+|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| [Quarto](https://quarto.org/docs/guide/)                                                      | Resources for using Quarto. Quarto is used to generate reports alongside R code; useful for analyses.        |
+| [Operators in R](https://www.datacamp.com/tutorial/operators-in-r)                            | Resource demonstrating different logical and arithmetical operators in R.                                    |
+| [Referencing and assignment](https://www.ucl.ac.uk/~uctqiax/PUBLG100/2015/faq/operators.html) | Demonstrates how to reference rows or columns in data frames.                                                |
+| [Intro to R](https://bookdown.org/rwnahhas/IntroToR/intro.html)                               | General guide containing information on how to code, basic operations, variable types, and simple functions. |
 
 ## Setting up GitHub
 
@@ -14,6 +23,7 @@ All projects you work on within the lab should be stored on Github. Note that da
 
 For more information and tutorial websites/videos, please see the below.
 
-|                                                                                |                                                                            |
+|                                                                                |                                                                              |
 |-----------------------------|-------------------------------------------|
-| [Setting up R projects to GitHub](https://www.youtube.com/watch?v=bUoN85QvC10) | A short step-by-step video on how to add your existing projects to GitHub. |
+| [Setting up R projects to GitHub](https://www.youtube.com/watch?v=bUoN85QvC10) | A short step-by-step video on how to add your existing projects to GitHub.   |
+| [Happy Git With R](https://happygitwithr.com/)                                 | In-depth guide to using GitHub with R, including how to set up repositories. |

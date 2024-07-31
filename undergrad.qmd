@@ -4,10 +4,26 @@ title: "Undergraduate students"
 
 All undergraduate students must work in the lab prior to working with {{< var names.pi >}}. If you are a student considering working with {{< var names.pi >}} for either an Honours or 3000-level project, reach out as soon as possible to {{< var emails.pi >}} or {{< var emails.manager >}} to arrange [volunteering](volunteer.qmd) within the lab.
 
+During your program, you will likely be supervised or co-supervised by another graduate student in the lab. Your primary point of contact within the lab will be this graduate student rather than {{< var names.pi >}}.
+
+Undergradute students will be responsible for all policies and procedures for their honours (e.g., deadlines, assignments). Additionally, you will be responsible for making {{< var names.pi >}} aware of any important/relevant information ahead of time.
+
+As an incoming student, you may be expected to engage with the lab regarding your honours/(in)dependent project before classes begin in September. This may involve the creation of Research Ethics Board applications, designing/testing protocol, etc.. Often, these projects take more than the allotted course time to complete. This headstart will allow you more time to collect your data and finish your project.
+
+You will be expected to meet regularly with your supervisor(s) and be prepared for meetings, with an agenda for the meeting and a summary of work completed since the last meeting, as well as any questions you may want to discuss.
+
 ## Honours students
 
-Honours students are expected to...
+Honours students are expected to develop their own research idea, often within an existing project. While there is some flexibility on research topic, it generally must fall under topics already under investigation by other students in the lab.
+
+Please note that the deadline for applying for the Honours program is usually around the end of the Winter term. However, it is a good idea for you to reach out to potential supervisors well before this deadline. [You must have secured a supervisor before you may apply]{.underline}.
+
+For more information about the Honours program, please visit the [department page](https://www.dal.ca/faculty/science/psychology_neuroscience/programs/honours-program.html). If you have any questions regarding the honours program, please reach out to your program coordinators at [psychhon\@dal.ca](mailto:psychhon@dal.ca).
 
 ## Dependent or independent project students
 
-These students are expected to...
+These students are expected to work collaboratively with their supervisor on creating the course syllabus. The nature of your project may vary depending on whether you are enrolled in PSYO/NESC 3001/3002 (dependent projects) or PSYO/NESC 3100 (independent projects). You can consult the academic calendar or [department website](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=129&chapterid=8625&loaduseredits=False) to learn more about these courses.
+
+For single-semester (dependent) projects, you will likely be involved in undertaking a secondary analysis of a dataset which already exists within the lab, or undertaking a much less intensive research project (e.g., developping and testing a protocol).
+
+You will also be expected to complete your commitment to the project beyond the scope of your course. For example, if your project involves the creation of a lab protocol, you will be expected to continue volunteering with the lab on testing and finalizing this protocol, even if this was outside of the scope of your syllabus and your course has already been completed.

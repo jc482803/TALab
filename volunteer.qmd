@@ -2,6 +2,18 @@
 title: "Volunteer Students"
 ---
 
+::: callout-important
 Volunteers within the lab must sign the volunteer agreement form and return it to the lab manager, {{< var names.manager >}}.
+:::
 
-Generally, students are expected to commit an average of 3 hours per work to working within the lab. This work need not be completed on campus if the nature of your work permits you to work from home; however, all students are encouraged to work on campus if possible. Working on campus is a great opportunity to meet your fellow labmates, make new friends, and learn about research going on in the lab.
+As a volunteer within the lab, you may participate in a variety of tasks. These can range from assisting on systematic reviews using Covidence, assisting with recruitment, testing study procedures and protocols, to running in-person experiments with participants. Regardless, we hope to provide you with some hands-on experience and involvement in the research process.
+
+If you are considering enrolling in the Honours program, it's a good idea for you to first volunteer within a lab; preferably the lab you intend on completing your honours with).
+
+## Expectations
+
+Generally, students are expected to commit an average of 3 hours per work to working within the lab for a 1-year commitment. This work need not be completed on campus if the nature of your work permits you to work from home; however, all students are encouraged to work on campus if possible. Working on campus is a great opportunity to meet your fellow labmates, make new friends, and learn about research going on in the lab.
+
+Occasionally, the demands of the lab may change and we may ask that you shift your focus to a different project than the one you are currently working on. We expect volunteers within the lab to be flexible within reason, and to be able to shift projects if requested by {{< var names.pi >}}.
+
+We understand that sometimes, circumstances change and you may no longer be able to participate to the degree that you had initially agreed to, or you may no longer be able to participate at all. If that's the case, please inform {{< var names.pi >}} as soon as possible.

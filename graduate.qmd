@@ -2,4 +2,30 @@
 title: "Graduate students"
 ---
 
+## Expectations
+
+### Development of Research Projects
+
+Graduate students within the lab are expected to develop their own research projects in collaboration with {{< var names.pi >}} and their co-supervisors, if applicable. You are expected to carry out these projects independently or with the assistance/collaboration of other students in the program. Your PI and co-supervisor(s) are only to provide oversight and advise you should you have any questions.
+
+Incoming students are expected to proactively conduct literature reviews and attend research development meetings with ideas for their own research projects, rather than waiting to be provided with ideas by their supervisor(s).
+
+While there is flexibility around the research topics, all topics must fall within the mandate of the lab's work. If a student is accepted into the program to help support the work on a specific grant, they will be expected to develop a research project within that grant.
+
 Graduate students within the lab are expected to recruit undergraduate (Honours) students to assist them with their comprehensive (if running a new study) and dissertation projects. These students will be co-supervised by you and Igor. This will provide you with both supervisory experience, and invaluable labour from the undergraduate student to further your research.
+
+### Supervision meetings
+
+Students will be expected to meet regularly with {{< var names.pi >}} for supervision. Meeting frequency will vary based on personal factors and the training level of the student. Junior students (first 2 years of their training) will be expected to meet with {{< var names.pi >}} weekly for 30 minutes. Senior students can expect to meet with {{< var names.pi >}} every 2 weeks for 30 minutes.
+
+The purpose of these meetings is to check in and provide updates on the work that has been done since the last meeting, as well as addressing any questions or concerns that cannot be adequately addressed via email and/or Slack. Examples of topics which can be addressed via email/Slack include troubleshooting statistics/code, requests to review documents, or questions about the program. Meeting times should be reserved for project planning, personal discussions, and supervisory guidance surrounding the program or your training (e.g., research, practicum, milestones, dissertation).
+
+::: callout-tip
+If you do not need your regular meeting, please let {{< var names.pi >}} know, as well as the lab manager {{< var names.manager >}} to cancel your meeting.
+:::
+
+To schedule your meetings, contact the lab manager or click the scheduling link to schedule your meetings directly.
+
+### Clinical training
+
+Students are expected to familiarize themselves with program resources. These resources, including the program handbook and practicum guidelines, are available on the [program website](https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology.html). If you have any questions about the program, you can reach out to the program administrators at [clinprog\@dal.ca](mailto:clinprog@dal.ca). Be sure to familiarize yourself with the timelines of the program, including comprehensive projects, dissertation, coursework by year, and practicum hour requirements.
