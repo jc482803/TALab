@@ -1,3 +1,5 @@
 ---
 title: "Clinical program resources"
 ---
+
+In this chapter, you will find resources relating to [comprehensive projects](comps.qmd), [practica](practica.qmd), [residency](residency.qmd), and [general resources](guidelines.qmd).

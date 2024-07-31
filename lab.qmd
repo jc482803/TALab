@@ -1,3 +1,23 @@
 ---
 title: "Lab space and resources"
 ---
+
+## Our areas
+
+We have five rooms available for use by students working with the lab. These rooms are located in the Psychology & Neuroscience wing of the Life Sciences Centre on the Studley campus. Our rooms are located on the second floor (same floor as the lounge and main office for Psychology and Neuroscience) just behind the lounge. You will require access before you are able to enter these spaces; see [here](starting.qmd) for more information.
+
+Our rooms are P3388 to P3392. P3388 is the main lab area open to all students. Several computers can be found there, as well as a printer. Please feel free to use this space. P3392 is the office of the lab manager. P3389, P3390, and P3391 are storage/research spaces available for use upon request to {{< var names.pi >}}.
+
+![](images/clipboard-1772331660.png){#lab-map fig-align="center" width="500"}
+
+### Lab space rules
+
+As mentioned [here](rules.qmd), please clean up after yourself when using the lab space. The available printer is for use for tasks relating to the lab; please do not print unrelated coursework using this printer. There is a microwave, fridge, kettle, and coffeemaker in the main lab area. Feel free to use these as well. Note that the coffeemaker uses Nespresso pods; if you would like to make use of this machine, please bring your own pods. If supplies are running low, please notify {{< var names.manager >}} or {{< var names.pi >}}. When exiting the space, be sure to turn off all lights and close/lock the door behind you.
+
+Lab spaces are not to be used for research purposes without prior approval from {{< var names.pi >}}.
+
+As per department policy, only graduate students may be granted keys to access the space. Undergraduate students must use the key located within the lockbox.
+
+## Personnel
+
+The lab often has access to several volunteers or paid research assistants (RAs) working within the lab. If you think your project could use the assistance of a volunteer/RA, please discuss with {{< var names.pi >}}. These volunteers/RAs are to be assigned to work on projects solely by {{< var names.pi >}}. Please note that while research assistants may assist with the comprehensive/thesis projects of graduate students, the majority of the work must still be carried out by the graduate students.

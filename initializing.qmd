@@ -30,6 +30,8 @@ Once you create your preregistration, you will be provided with a DOI. This DOI 
 
 Preregistration should be thought of as a plan for your research study. Regardless of how much you prepare and think ahead, it's always a possibility that things change along your research journey. If you make changes to the design of your study, these changes should be reflected within your preregistration through an [amendment](https://help.osf.io/article/110-introduction-to-updating). Generally you must provide: 1) the changes made, 2) the rationale for the changes, and 3) the impact of these changes on your study.
 
+Students who are deviating from their amendment should [consult this article](https://online.ucpress.edu/collabra/article/10/1/117094/200749/When-and-How-to-Deviate-From-a-Preregistration) by Daniel Lakens titled "When and How to Deviate From a Preregistration" (doi: [10.1525/collabra.117094](https://doi.org/10.1525/collabra.117094)).
+
 ## Research logging
 
 All students, regardless of training stage, should create and maintain a separate research log for each study with which you are involved. You can think of this as journaling for academics. Each day you work on your project, once you're done working, you should log any and all decisions made, any lingering thoughts or questions, and also make note of any relevant or key research studies you find if you did a literature search. In particular, if you resolve a question you had previously or if a key decision is made on your project, [write it down]{.underline} in these logs. It's also a good opportunity for you to take note of where you left off for the day, which you can consult when you return to the project and have a good starting point.

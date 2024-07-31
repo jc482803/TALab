@@ -49,3 +49,9 @@ Always have someone else within earshot when running participants. This can be a
 All data collected or datasets which you have access to are not to be shared with anyone. Data and research materials should not be stored on your personal computers - all materials should be stored on the lab OneDrive account. Resources are permitted to be saved to lab computers; however, these documents should also be stored on the lab OneDrive.
 
 All physical research materials (from questionnaires to equipment) should not leave the lab space without explicit permission from Igor.
+
+## Work policies
+
+Work-life balance is important in the lab. We have no expectation of students working a certain number of hours per week. Rather, the important part is establishing reasonable deadlines and meeting those deadlines.
+
+Students are permitted to take time off, if permitted by their program and any other responsibilities. For students in the Clinical program, vacation days are outlined in the [student handbook](graduate.qmd). Before scheduling vacation, you must have approval from whoever you are working with at the time, including {{< var names.pi >}} as well as any other supervisors or coordinators in the program. Vacation should not interfere with program milestones; students are still expected to fulfill their responsibilities before departing.
